@@ -110,7 +110,53 @@ nEXT mAINTAIN THE SERVICE :
 
 <img width="356" height="241" alt="image" src="https://github.com/user-attachments/assets/c6dc9a97-a2cc-43ba-87e7-2e49e2731229" />
 
-or /n/iwfnd/maint_service
+or /n/iwfnd/maint_service like below:
+
+<img width="1872" height="929" alt="image" src="https://github.com/user-attachments/assets/79256eb0-33bc-4d40-8131-371954734fca" />
+
+# Once SICF Service got activated, we can display this service to the outer world.
+
+# go to maintain service tcode : SICF or
+
+ICF Node maintenace :
+
+<img width="890" height="275" alt="image" src="https://github.com/user-attachments/assets/badff724-38f4-49b4-8e68-5e8789cefe18" />
+
+
+## To Test your service go to /n/IWFND/GW_CLIENT
+
+OR GO TO This by the below button :
+
+<img width="816" height="209" alt="image" src="https://github.com/user-attachments/assets/cda7cc3e-2442-4509-b3bd-367e52dd9692" />
+
+###
+
+<img width="1888" height="939" alt="image" src="https://github.com/user-attachments/assets/aa563680-62a1-4886-a311-eb7b3285b391" />
+
+execute..
+
+just execute and you can see all the details.
+
+to view the metadata , put $metadata in end of URI.
+
+EX: /sap/opu/odata/sap/ZTEST_AM_ODTA_EMPD_01_SRV/$metadata
+
+
+<img width="1852" height="917" alt="image" src="https://github.com/user-attachments/assets/525eefde-1218-4f6a-8779-8f2c66644af5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
