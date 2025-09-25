@@ -53,6 +53,27 @@ We get error : EMPLOYEE_UPDATE_ENTITY not implemented
 <img width="1830" height="910" alt="image" src="https://github.com/user-attachments/assets/44ee4a82-7e71-47e7-a439-d6526477ab3d" />
 
 
+<img width="1799" height="900" alt="image" src="https://github.com/user-attachments/assets/d3105e99-cc2f-4d2b-bae8-4108411c2a2e" />
+
+<img width="1100" height="524" alt="image" src="https://github.com/user-attachments/assets/08401c6f-05f8-4ba6-a5e2-b34a1df26d33" />
+
+## result 204 success message :
+
+![Uploading image.png…]()
+
+
+## How to send back error messages to Client from server ( from SAP Bcak to external )
+
+we have 2 types of exceptions 
+
+### BUSINESS EXCEPTIONS
+
+### TECHNICAL EXCPETIONS
+
+### These we can use to raise exception and error messages which will be sent to client exL: front end 
+
+
+
 
 
 
