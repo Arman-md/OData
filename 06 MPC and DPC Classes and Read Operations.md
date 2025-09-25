@@ -56,7 +56,16 @@ result we get
 
 # To raise rxception in entity / entity sets we can use code like below:
 
-![Uploading image.png…]()
+<img width="1261" height="433" alt="image" src="https://github.com/user-attachments/assets/1b4053e8-13f9-4e08-80f8-51ca653cd42f" />
+
+result :
+
+<img width="1797" height="884" alt="image" src="https://github.com/user-attachments/assets/151c6274-72e7-4ad1-b9a4-c35cac007396" />
+
+
+
+
+
 
 
 
