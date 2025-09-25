@@ -54,6 +54,13 @@ result we get
 
 <img width="1792" height="780" alt="image" src="https://github.com/user-attachments/assets/8da64f1f-0777-400e-8a6e-4de1f3724723" />
 
+# To raise rxception in entity / entity sets we can use code like below:
+
+![Uploading image.png…]()
+
+
+
+
 
 
 
